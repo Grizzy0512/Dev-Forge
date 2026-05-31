@@ -57,8 +57,8 @@ The project is continuously evolving.
 
 ## 📬 Contact
 
-- Telegram: [your link]
-- GitHub: [your link]
+- Telegram: @G0ga0512
+- GitHub: https://github.com/Grizzy0512
 
 ---
 
